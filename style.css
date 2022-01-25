@@ -1,0 +1,22 @@
+.heading{
+	padding-left: 50px;
+	font-family: 'Karla', sans-serif;
+	color: #6c30fb;
+	font-weight: bold;
+
+}
+.subheading{
+	padding-left: 50px;
+	font-family: 'Karla', sans-serif;
+	color: #6c30fb;
+}
+.exponents{
+	display:inline-block;margin-right:10px;
+}
+.powerpuff{
+	display:inline-block;
+	margin-left: 50px;
+	font-family: 'Karla', sans-serif;
+	color: #6c30fb;
+	margin-top: 20px;
+}
